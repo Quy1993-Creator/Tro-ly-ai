@@ -70,7 +70,7 @@ DANH SÁCH THÔNG TIN NHÀ CUNG CẤP NGUYÊN LIỆU (MUA ĐÁ)
    - Mi Sàng: Chưa rõ giá
    - Cát Nghiền: 148,000 VNĐ
 
-DANH SÁCH THÔNG TIN KHÁCH HÀNG (MUA ĐÁ)
+DANH SÁCH THÔNG TIN KHÁCH HÀNG (BÁN ĐÁ)
 THÔNG TIN PHÁP LÝ
 
 Tên Công Ty: CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM
@@ -123,7 +123,7 @@ Tài Khoản Ngân Hàng: Không có thông tin
 Chức Vụ: Tổng Giám đốc
 Thông Tin Bổ Sung: Fax: (84.28) 37-402929
 
-BẢNG GIÁ SẢN PHẨM
+BẢNG GIÁ BÁN ĐÁ SẢN PHẨM
 
 
 CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM
