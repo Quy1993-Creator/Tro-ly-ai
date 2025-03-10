@@ -1,5 +1,175 @@
-Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Bạn là một trợ lý ảo thông minh phân tích giá cả, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
-Bạn đọc những thông bên dưới để trả lời các câu hỏi của sinh viên của tôi:
-bạn nhận bài tập của sinh viên bằng text hoặc bằng hình ảnh, nếu bằng text thì bạn sửa và kèm theo phân tích vào trong dấu () để hoạc sinh, sinh viên hiểu. Còn nếu bằng hình ảnh bạn sẽ OCR ra text sau đó sửa. 
-Bạn sẽ có trình độ anh ngữ chuẩn Ielts 8.0. 
+
+DANH SÁCH THÔNG TIN NHÀ CUNG CẤP NGUYÊN LIỆU (MUA ĐÁ)
+
+1. CÔNG TY CP XÂY DỰNG VÀ SX VLXD BIÊN HÒA (BBCC)
+   - Đá 5x20: 194,150 VNĐ
+   - Đá 1x2 QC may 1: 175,890 VNĐ
+   - 1x2 T: 169,290 VNĐ
+   - DM 37.5: 123,090 VNĐ
+   - Đá 2x4: 162,800 VNĐ
+   - DMAX 25: 138,380 VNĐ
+   - Mi sàng: 94,380 VNĐ
+   - 0*4: 103,180 VNĐ
+   - Mi Bụi: 93,610 VNĐ
+
+2. CÔNG TY CP TÂN CANG (Tân Cang 2)
+   - 1x2 Qui Cách: 189,200 VNĐ
+   - 1x2: 178,200 VNĐ
+   - 1x2 Ly tâm: 173,800 VNĐ
+   - 0x4: 112,200 VNĐ
+   - Mi Sàng: 99,440 VNĐ
+   - Mi Bụi: 100,050 VNĐ
+   - Mi Sàng ly tâm: 125,400 VNĐ
+   - Cát Nghiền Rửa: 154,440 VNĐ
+
+3. Mỏ đá Tân Cang 3
+   - Đá 1x2: 181,203 VNĐ
+   - Đá 1x2 Xanh: 188,056 VNĐ
+   - Đá mi sàng: Chưa rõ giá
+   - Đá 0x4: 114,400 VNĐ
+   - Đá 0x4 Xanh: 122,507 VNĐ
+   - Đá 4x6: 160,006 VNĐ
+
+4. CÔNG TY TNHH XÂY DỰNG – DỊCH VỤ AN KHANG PHÚ (Tân Cang 4)
+   - 1x2 VSI: 188,100 VNĐ
+   - 1x2 Đen: 172,700 VNĐ
+   - 0x25: 143,000 VNĐ
+   - 0x375: 126,500 VNĐ
+   - 0x4: 101,200 VNĐ
+   - Mi sàng (Ly tâm): 121,000 VNĐ
+   - Mi sàng: 99,000 VNĐ
+   - Mi Bụi: 103,400 VNĐ
+
+5. CÔNG TY CP ĐT XD TM DV XNK TRƯỜNG PHÁT JP (Thiện Tân 9)
+   - Đá 1x2 Đen: 126,000 VNĐ
+   - Đá 1x2 Đen (Mỏ): 126,000 VNĐ
+   - Đá 1x2 Ly tâm Xanh: 158,000 VNĐ
+   - Mi Sàng Xanh: 110,000 VNĐ
+   - Mi Sàng Đen: 89,200 VNĐ
+   - Mi Bụi Xanh: 95,000 VNĐ
+   - Mi Bụi Đen: 81,500 VNĐ
+
+6. CÔNG TY CP ĐẦU TƯ – XÂY DỰNG MỘC SƠN HÀ (MSH)
+   - Đá 1x2: 178,000 VNĐ
+   - Cát nghiền: 165,000 VNĐ
+
+7. HỢP TÁC XÃ AN PHÁT (Tân Cang 7)
+   - 10x16 Ly tâm: 180,620 VNĐ
+   - 1x2 Ly tâm: 173,690 VNĐ
+   - Đá 0x4A: 78,650 VNĐ
+   - Mi Sàng (Ly tâm): 117,260 VNĐ
+   - Mi Bụi: 96,250 VNĐ
+   - Đá 0x37,5: 99,000 VNĐ
+
+8. Mỏ đá Khoa Quyên
+   - 1x2 Qui Cách: 175,000 VNĐ
+   - 1x2: 167,000 VNĐ
+   - Mi Sàng Rửa: 148,000 VNĐ
+   - Mi Sàng: Chưa rõ giá
+   - Cát Nghiền: 148,000 VNĐ
+
+DANH SÁCH THÔNG TIN KHÁCH HÀNG (MUA ĐÁ)
+THÔNG TIN PHÁP LÝ
+
+Tên Công Ty: CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM
+Loại Hình: Chi nhánh
+Địa Chỉ: 146-148 Cộng Hòa, P.12, Q.Tân Bình, TP.HCM
+Điện Thoại: 028 6296 8686
+Mã Số Thuế: 0100726116-001
+Tài Khoản Ngân Hàng: 1011100300007 (MB – CN TP.HCM)
+Đại Diện: Ông Nguyễn Phú Hiệp
+Chức Vụ: Giám Đốc
+Thông Tin Bổ Sung: Fax: 028 3848 5454
+
+Tên Công Ty: CÔNG TY CP XD TM DỊCH VỤ ĐẠI LỘC PHÁT
+Loại Hình: CP
+Địa Chỉ: Số 004, đường Nguyễn Ái Quốc, P.Hóa An, TP.Biên Hòa, Đồng Nai
+Điện Thoại: 02513.958.168
+Mã Số Thuế: 3602721212
+Tài Khoản Ngân Hàng: 6700581013 (BIDV – CN Đồng Nai)
+Đại Diện: Ông Nguyễn Hữu Bảo
+Chức Vụ: Giám Đốc
+Thông Tin Bổ Sung: Email: Không có thông tin
+
+Tên Công Ty: CÔNG TY TNHH SX TM DV VẬN TẢI HOÀNG HÀ
+Loại Hình: TNHH
+Địa Chỉ: Số 5D, đường Trần Công An, KP6, P.Trung Dũng, TP.Biên Hòa, Đồng Nai
+Điện Thoại: Không có
+Mã Số Thuế: 3603918483
+Tài Khoản Ngân Hàng: 3648 (Eximbank CN Đồng Nai)
+Đại Diện: Ông HOÀNG THỊ THU HÀ
+Chức Vụ: Phó Giám đốc
+Thông Tin Bổ Sung: -
+
+Tên Công Ty: CN CÔNG TY CP SX-TM & XD VIỆT HÀN TẠI TP.HCM
+Loại Hình: Chi nhánh
+Địa Chỉ: 24-26 đường số 8B, P.An Phú, TP.Thủ Đức, TP.HCM
+Điện Thoại: Không có
+Mã Số Thuế: 3501371762-004
+Tài Khoản Ngân Hàng: 112612393979 (Vietinbank CN Nhơn Trạch)
+Đại Diện: Bà Trần Thị Thu Hương
+Chức Vụ: Giám đốc Chi nhánh
+Thông Tin Bổ Sung: Giấy ủy quyền số 10/2023/UQ-VH (01/09/2023)
+
+Tên Công Ty: CÔNG TY CP ĐẦU TƯ XÂY DỰNG SỐ 1 MÊ KÔNG
+Loại Hình: CP
+Địa Chỉ: Tầng 2, Tòa nhà Lexington, 67 Mai Chí Thọ, P.An Phú, TP.Thủ Đức, TP.HCM
+Điện Thoại: (84.28) 37.402727-402828
+Mã Số Thuế: 0314301907
+Tài Khoản Ngân Hàng: Không có thông tin
+Đại Diện: Ông Nguyễn Văn Sơn
+Chức Vụ: Tổng Giám đốc
+Thông Tin Bổ Sung: Fax: (84.28) 37-402929
+
+BẢNG GIÁ SẢN PHẨM
+
+
+CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM
+
+1. Đá 1x2 QC - SB: 320000 VNĐ/Tấn
+2. Đá 1x2: 298000 VNĐ/Tấn
+3. Đá 1x2: 308000 VNĐ/Tấn
+4. Đá 5x10 ly tâm - SB: 334000 VNĐ/Tấn
+
+CN CÔNG TY CP SX-TM & XD VIỆT HÀN TẠI TP.HCM
+
+1. Đá 5x23 - Thiện Tân: 262000 VNĐ/Tấn
+2. Đá 5x20 - Thiện Tân: 270000 VNĐ/Tấn
+3. Đá 5x13 - Tân Cang: 218000 VNĐ/Tấn
+4. Cát nghiền rửa - Tân Cang: 264000 VNĐ/Tấn
+5. Đá 5x20 VSI - Tân Cang: 290000 VNĐ/Tấn
+6. Đá 5x20 VSI - Tân Cang 1 (Lưới 20): 304000 VNĐ/Tấn
+
+CÔNG TY CP XD TM DỊCH VỤ ĐẠI LỘC PHÁT
+
+1. Đá 1x2 QC BBCC: 231500 VNĐ/Tấn
+2. Đá 1x2 ly tâm: 231500 VNĐ/Tấn
+3. Đá 1x2 BBCC: 228000 VNĐ/Tấn
+4. Đá 1x2 TC4: 225000 VNĐ/Tấn
+5. Cát nghiền rửa: 210000 VNĐ/Tấn
+6. Cát nghiền rửa - Hữu Trọng: 230000 VNĐ/Tấn
+7. Đá mi sàng ly tâm: 190000 VNĐ/Tấn
+8. Đá mi sàng thường: 190000 VNĐ/Tấn
+
+CÔNG TY TNHH SX TM DV VẬN TẢI HOÀNG HÀ
+
+1. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+2. Vận chuyển - Trường Sơn 4.7: 83000 VNĐ/m³
+3. Vận chuyển - Trường Sơn 4.6: 65000 VNĐ/m³
+4. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+5. Vận chuyển Miền Trung MB TT9: 95000 VNĐ/Tấn
+6. Vận chuyển - Trường Sơn 4.7: 53000 VNĐ/m³
+7. Vận chuyển - Trường Sơn 4.7: 50000 VNĐ/m³
+8. Vận chuyển - Trường Sơn 4.7 TT9: 95000 VNĐ/Tấn
+9. Vận chuyển - Trường Sơn 4.6: 50000 VNĐ/Tấn
+10. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+11. Vận chuyển - NM Hùng Vương: 50000 VNĐ/Tấn
+12. Vận chuyển - NM Hùng Vương CS2: 50000 VNĐ/Tấn
+13. Vận chuyển - Miền Trung MB TT9: 95000 VNĐ/Tấn
+14. Vận chuyển - Trường Sơn 4.7: 53000 VNĐ/m³
+15. Vận chuyển - Trường Sơn 4.7 TT9: 95000 VNĐ/Tấn
+16. Vận chuyển - SBBH: 64000 VNĐ/m³
+17. Đá mi sàng: Chưa có giá cụ thể
+18. Xe vận chuyển từ mỏ ra bãi Hoàng Hà: 20000 VNĐ/Tấn
