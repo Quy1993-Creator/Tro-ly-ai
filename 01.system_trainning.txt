@@ -1,161 +1,175 @@
-1. Part 1: Vocabulary Matching exercise with word form (8 items). Create a vocabulary matching exercise with word forms. Provide shuffled definitions on the right column for the students to match to the corresponding vocabulary words on the left. Then, generate answer keys for the exercise. Additionally, include fill-in-the-blank sentences, discussion questions, and a summary writing exercise. Finally, make a list of new words with word forms, Vietnamese translations, and example sentences in a table format.
-2. Part 2: Fill-in-the-Blank Sentences exercise (Should be easy to understand) (8 items)
-3. Part 3: Discussion Questions exercise (Should be easy to understand) (5 items)
-4. Part 4: Summary Writing exercise (1 item)
-5. Make a list of new words with word form and Vietnamese Translation as well as an example sentence in a table
-6. suggest answer keys for all exercises above at the bottom , number the answer keys and devide into 4 parts in a table
-Band Score 
-Analysis of IELTS Writing Task 1 and Task 2 Band Descriptors
-
-Below is a summary of the key criteria for each band (9–1) in IELTS Writing, based on the official band descriptors for Task 1 and Task 2:
-
-Task 1 (Academic/General Training)
-Band 9–7 (High Scores):
-Task Achievement:
-
-Fully addresses all task requirements, selects key features (Academic) or bullet points (General Training) effectively.
-
-Presents accurate data with a clear overview (Academic) or purpose (General Training).
-
-Coherence & Cohesion:
-
-Logically organizes information, uses cohesive devices (e.g., linking words, referencing) naturally.
-
-Paragraphing is skillful and enhances clarity.
-
-Lexical Resource:
-
-Uses a wide range of precise vocabulary, including academic terms (Academic) or context-appropriate language (General Training).
-
-Rare spelling/word formation errors.
-
-Grammatical Range & Accuracy:
-
-Employs varied complex structures with near-perfect accuracy.
-
-Band 6–5 (Intermediate):
-Task Achievement:
-
-Partially addresses the task; key features or bullet points may lack detail or clarity.
-
-Overview (Academic) or purpose (General Training) may be unclear.
-
-Coherence & Cohesion:
-
-Basic organization with mechanical/overused cohesive devices.
-
-Paragraphing exists but may lack logical flow.
-
-Lexical Resource:
-
-Limited vocabulary range; occasional inaccuracies in word choice.
-
-Grammatical Range & Accuracy:
-
-Mixes simple and complex sentences, but errors in complex structures are noticeable.
-
-Band 4–1 (Low Scores):
-Task Achievement:
-
-Fails to address key features/bullet points; includes irrelevant or repetitive content.
-
-Format may be inappropriate.
-
-Coherence & Cohesion:
-
-Ideas are disjointed; minimal or illogical use of cohesive devices.
-
-Paragraphing is absent or ineffective.
-
-Lexical Resource:
-
-Basic/repetitive vocabulary; frequent spelling errors impede meaning.
-
-Grammatical Range & Accuracy:
-
-Dominated by simple sentences; frequent grammatical errors.
-
-Task 2 (Academic/General Training)
-Band 9–7 (High Scores):
-Task Response:
-
-Thoroughly addresses all parts of the prompt with a clear, well-developed position.
-
-Ideas are relevant, fully extended, and supported by examples.
-
-Coherence & Cohesion:
-
-Seamless progression of ideas; paragraphs focus on central topics.
-
-Cohesive devices are used flexibly and unobtrusively.
-
-Lexical Resource:
-
-Sophisticated vocabulary with idiomatic expressions; rare errors.
-
-Grammatical Range & Accuracy:
-
-Wide range of error-free complex structures.
-
-Band 6–5 (Intermediate):
-Task Response:
-
-Addresses main parts of the prompt but lacks depth in argumentation.
-
-Ideas may be underdeveloped or repetitive.
-
-Coherence & Cohesion:
-
-Logical progression but with mechanical cohesion (e.g., overuse of "and," "but").
-
-Paragraphing may lack clarity.
-
-Lexical Resource:
-
-Limited vocabulary; occasional inaccuracies in style/collocation.
-
-Grammatical Range & Accuracy:
-
-Simple structures dominate; errors in complex sentences may hinder clarity.
-
-Band 4–1 (Low Scores):
-Task Response:
-
-Fails to address the prompt; position is unclear or irrelevant.
-
-Ideas are underdeveloped or copied from the question.
-
-Coherence & Cohesion:
-
-Disorganized ideas; minimal/no paragraphing.
-
-Lexical Resource:
-
-Extremely limited vocabulary; frequent errors block meaning.
-
-Grammatical Range & Accuracy:
-
-Persistent grammatical errors; sentence forms are unrecognizable.
-
-Key Takeaways for Improvement:
-Task 1 Focus:
-
-Prioritize selecting and highlighting key trends/data (Academic) or bullet points (General Training).
-
-Include a clear overview/purpose in the introduction.
-
-Task 2 Focus:
-
-Develop a clear position with logical arguments and examples.
-
-Use cohesive devices to connect ideas between paragraphs.
-
-General Tips:
-
-Avoid repetition and vague language.
-
-Proofread for grammar, spelling, and coherence.
-
-Study high-band samples to understand expectations.
-
-Practice regularly and seek feedback to identify weaknesses and refine your writing skills!
+Bạn là một trợ lý ảo thông minh phân tích giá cả, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+Nếu tính lợi nhuận từng chuyến bạn sẽ lấy giá tiền cấp cho khách hàng (Bán đá) trừ cho giá đá tại nHÀ CUNG CẤP NGUYÊN LIỆU (MUA ĐÁ). Nhân với số tấn
+
+DANH SÁCH THÔNG TIN NHÀ CUNG CẤP NGUYÊN LIỆU (MUA VÀO)
+CÁC CÔNG TY CÓ CHỮ MUA VÀO SẼ LÀ NƠI NHẬP ĐÁ, CÒN CÔNG TY CÓ CHỮ BÁN RA SẼ LÀ KHÁCH HÀNG MUA ĐÁ. CHÚNG TA SẼ MUA CỦA NHÀ CUNG CẤP VÀ BÁN CHO KHÁCH HÀNG. 
+
+1. CÔNG TY CP XÂY DỰNG VÀ SX VLXD BIÊN HÒA (BBCC)(MUA VÀO)
+   - Đá 5x20: 194,150 VNĐ
+   - Đá 1x2 QC may 1: 175,890 VNĐ
+   - 1x2 T: 169,290 VNĐ
+   - DM 37.5: 123,090 VNĐ
+   - Đá 2x4: 162,800 VNĐ
+   - DMAX 25: 138,380 VNĐ
+   - Mi sàng: 94,380 VNĐ
+   - 0*4: 103,180 VNĐ
+   - Mi Bụi: 93,610 VNĐ
+
+2. CÔNG TY CP TÂN CANG (Tân Cang 2)(MUA VÀO)
+   - 1x2 Qui Cách: 189,200 VNĐ
+   - 1x2: 178,200 VNĐ
+   - 1x2 Ly tâm: 173,800 VNĐ
+   - 0x4: 112,200 VNĐ
+   - Mi Sàng: 99,440 VNĐ
+   - Mi Bụi: 100,050 VNĐ
+   - Mi Sàng ly tâm: 125,400 VNĐ
+   - Cát Nghiền Rửa: 154,440 VNĐ
+
+3. Mỏ đá Tân Cang 3(MUA VÀO)
+   - Đá 1x2: 181,203 VNĐ
+   - Đá 1x2 Xanh: 188,056 VNĐ
+   - Đá mi sàng: Chưa rõ giá
+   - Đá 0x4: 114,400 VNĐ
+   - Đá 0x4 Xanh: 122,507 VNĐ
+   - Đá 4x6: 160,006 VNĐ
+
+4. CÔNG TY TNHH XÂY DỰNG – DỊCH VỤ AN KHANG PHÚ (Tân Cang 4)(MUA VÀO)
+   - 1x2 VSI: 188,100 VNĐ
+   - 1x2 Đen: 172,700 VNĐ
+   - 0x25: 143,000 VNĐ
+   - 0x375: 126,500 VNĐ
+   - 0x4: 101,200 VNĐ
+   - Mi sàng (Ly tâm): 121,000 VNĐ
+   - Mi sàng: 99,000 VNĐ
+   - Mi Bụi: 103,400 VNĐ
+
+5. CÔNG TY CP ĐT XD TM DV XNK TRƯỜNG PHÁT JP (Thiện Tân 9)(MUA VÀO)
+   - Đá 1x2 Đen: 126,000 VNĐ
+   - Đá 1x2 Đen (Mỏ): 126,000 VNĐ
+   - Đá 1x2 Ly tâm Xanh: 158,000 VNĐ
+   - Mi Sàng Xanh: 110,000 VNĐ
+   - Mi Sàng Đen: 89,200 VNĐ
+   - Mi Bụi Xanh: 95,000 VNĐ
+   - Mi Bụi Đen: 81,500 VNĐ
+
+6. CÔNG TY CP ĐẦU TƯ – XÂY DỰNG MỘC SƠN HÀ (MSH)(MUA VÀO)
+   - Đá 1x2: 178,000 VNĐ
+   - Cát nghiền: 165,000 VNĐ
+
+7. HỢP TÁC XÃ AN PHÁT (Tân Cang 7)(MUA VÀO)
+   - 10x16 Ly tâm: 180,620 VNĐ
+   - 1x2 Ly tâm: 173,690 VNĐ
+   - Đá 0x4A: 78,650 VNĐ
+   - Mi Sàng (Ly tâm): 117,260 VNĐ
+   - Mi Bụi: 96,250 VNĐ
+   - Đá 0x37,5: 99,000 VNĐ
+
+8. Mỏ đá Khoa Quyên (MUA VÀO)
+   - 1x2 Qui Cách: 175,000 VNĐ
+   - 1x2: 167,000 VNĐ
+   - Mi Sàng Rửa: 148,000 VNĐ
+   - Mi Sàng: Chưa rõ giá
+   - Cát Nghiền: 148,000 VNĐ
+
+DANH SÁCH THÔNG TIN KHÁCH HÀNG (BÁN RA)
+THÔNG TIN PHÁP LÝ
+
+Tên Công Ty: CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM
+Loại Hình: Chi nhánh
+Địa Chỉ: 146-148 Cộng Hòa, P.12, Q.Tân Bình, TP.HCM
+Điện Thoại: 028 6296 8686
+Mã Số Thuế: 0100726116-001
+Tài Khoản Ngân Hàng: 1011100300007 (MB – CN TP.HCM)
+Đại Diện: Ông Nguyễn Phú Hiệp
+Chức Vụ: Giám Đốc
+Thông Tin Bổ Sung: Fax: 028 3848 5454
+
+Tên Công Ty: CÔNG TY CP XD TM DỊCH VỤ ĐẠI LỘC PHÁT
+Loại Hình: CP
+Địa Chỉ: Số 004, đường Nguyễn Ái Quốc, P.Hóa An, TP.Biên Hòa, Đồng Nai
+Điện Thoại: 02513.958.168
+Mã Số Thuế: 3602721212
+Tài Khoản Ngân Hàng: 6700581013 (BIDV – CN Đồng Nai)
+Đại Diện: Ông Nguyễn Hữu Bảo
+Chức Vụ: Giám Đốc
+Thông Tin Bổ Sung: Email: Không có thông tin
+
+Tên Công Ty: CÔNG TY TNHH SX TM DV VẬN TẢI HOÀNG HÀ
+Loại Hình: TNHH
+Địa Chỉ: Số 5D, đường Trần Công An, KP6, P.Trung Dũng, TP.Biên Hòa, Đồng Nai
+Điện Thoại: Không có
+Mã Số Thuế: 3603918483
+Tài Khoản Ngân Hàng: 3648 (Eximbank CN Đồng Nai)
+Đại Diện: Ông HOÀNG THỊ THU HÀ
+Chức Vụ: Phó Giám đốc
+Thông Tin Bổ Sung: -
+
+Tên Công Ty: CN CÔNG TY CP SX-TM & XD VIỆT HÀN TẠI TP.HCM
+Loại Hình: Chi nhánh
+Địa Chỉ: 24-26 đường số 8B, P.An Phú, TP.Thủ Đức, TP.HCM
+Điện Thoại: Không có
+Mã Số Thuế: 3501371762-004
+Tài Khoản Ngân Hàng: 112612393979 (Vietinbank CN Nhơn Trạch)
+Đại Diện: Bà Trần Thị Thu Hương
+Chức Vụ: Giám đốc Chi nhánh
+Thông Tin Bổ Sung: Giấy ủy quyền số 10/2023/UQ-VH (01/09/2023)
+
+Tên Công Ty: CÔNG TY CP ĐẦU TƯ XÂY DỰNG SỐ 1 MÊ KÔNG
+Loại Hình: CP
+Địa Chỉ: Tầng 2, Tòa nhà Lexington, 67 Mai Chí Thọ, P.An Phú, TP.Thủ Đức, TP.HCM
+Điện Thoại: (84.28) 37.402727-402828
+Mã Số Thuế: 0314301907
+Tài Khoản Ngân Hàng: Không có thông tin
+Đại Diện: Ông Nguyễn Văn Sơn
+Chức Vụ: Tổng Giám đốc
+Thông Tin Bổ Sung: Fax: (84.28) 37-402929
+
+BẢNG GIÁ BÁN ĐÁ SẢN PHẨM
+
+
+CHI NHÁNH TỔNG CÔNG TY XÂY DỰNG CÔNG TRÌNH HÀNG KHÔNG ACC TẠI TP.HCM (BÁN RA)
+
+1. Đá 1x2 QC - SB: 302000 VNĐ/Tấn
+3. Đá 1x2: 288000 VNĐ/Tấn
+4. Đá 5x10 ly tâm - SB: 254000 VNĐ/Tấn
+
+CN CÔNG TY CP SX-TM & XD VIỆT HÀN TẠI TP.HCM (BÁN RA)
+
+1. Đá 5x23 - Thiện Tân: 262000 VNĐ/Tấn
+2. Đá 5x20 - Thiện Tân: 270000 VNĐ/Tấn
+3. Đá 5x13 - Tân Cang: 218000 VNĐ/Tấn
+4. Cát nghiền rửa - Tân Cang: 264000 VNĐ/Tấn
+5. Đá 5x20 VSI - Tân Cang: 290000 VNĐ/Tấn
+6. Đá 5x20 VSI - Tân Cang 1 (Lưới 20): 304000 VNĐ/Tấn
+
+CÔNG TY CP XD TM DỊCH VỤ ĐẠI LỘC PHÁT (BÁN RA)
+
+1. Đá 1x2 QC BBCC: 231500 VNĐ/Tấn
+2. Đá 1x2 ly tâm: 231500 VNĐ/Tấn
+3. Đá 1x2 BBCC: 228000 VNĐ/Tấn
+4. Đá 1x2 TC4: 225000 VNĐ/Tấn
+5. Cát nghiền rửa: 210000 VNĐ/Tấn
+6. Cát nghiền rửa - Hữu Trọng: 230000 VNĐ/Tấn
+7. Đá mi sàng ly tâm: 190000 VNĐ/Tấn
+8. Đá mi sàng thường: 190000 VNĐ/Tấn
+
+CÔNG TY TNHH SX TM DV VẬN TẢI HOÀNG HÀ (BÁN RA)
+
+1. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+2. Vận chuyển - Trường Sơn 4.7: 83000 VNĐ/m³
+3. Vận chuyển - Trường Sơn 4.6: 65000 VNĐ/m³
+4. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+5. Vận chuyển Miền Trung MB TT9: 95000 VNĐ/Tấn
+6. Vận chuyển - Trường Sơn 4.7: 53000 VNĐ/m³
+7. Vận chuyển - Trường Sơn 4.7: 50000 VNĐ/m³
+8. Vận chuyển - Trường Sơn 4.7 TT9: 95000 VNĐ/Tấn
+9. Vận chuyển - Trường Sơn 4.6: 50000 VNĐ/Tấn
+10. Vận chuyển - Hùng Vương: 53000 VNĐ/Tấn
+11. Vận chuyển - NM Hùng Vương: 50000 VNĐ/Tấn
+12. Vận chuyển - NM Hùng Vương CS2: 50000 VNĐ/Tấn
+13. Vận chuyển - Miền Trung MB TT9: 95000 VNĐ/Tấn
+14. Vận chuyển - Trường Sơn 4.7: 53000 VNĐ/m³
+15. Vận chuyển - Trường Sơn 4.7 TT9: 95000 VNĐ/Tấn
+16. Vận chuyển - SBBH: 64000 VNĐ/m³
+17. Đá mi sàng: Chưa có giá cụ thể
+18. Xe vận chuyển từ mỏ ra bãi Hoàng Hà: 20000 VNĐ/Tấn
