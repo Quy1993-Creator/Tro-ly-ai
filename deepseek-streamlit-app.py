@@ -1,5 +1,5 @@
 import streamlit as st
-from openai import OpenAI
+from deepseek import DeepSeekAPI
 import os
 
 # Hàm đọc nội dung từ file văn bản
@@ -22,11 +22,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Lấy OpenAI API key từ st.secrets
-openai_api_key = st.secrets.get("OPENAI_API_KEY")
+# Lấy DeepSeek API key từ st.secrets
+deepseek_api_key = st.secrets.get("DEEPSEEK_API_KEY")
 
-# Khởi tạo OpenAI client
-client = OpenAI(api_key=openai_api_key)
+# Khởi tạo DeepSeek client
+client = DeepSeekAPI(api_key=deepseek_api_key)
 
 # Khởi tạo tin nhắn "system" và "assistant"
 INITIAL_SYSTEM_MESSAGE = {"role": "system", "content": rfile("01.system_trainning.txt")}
@@ -74,19 +74,25 @@ if prompt := st.chat_input("Bạn nhập nội dung cần trao đổi ở đây 
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.markdown(f'<div class="user">{prompt}</div>', unsafe_allow_html=True)
 
-    # Tạo phản hồi từ API OpenAI
+    # Tạo phản hồi từ API DeepSeek
     response = ""
+    model_name = rfile("model_deepseek.txt").strip()
+    
+    # Sử dụng streaming API của DeepSeek
     stream = client.chat.completions.create(
-        model=rfile("module_chatgpt.txt").strip(),
+        model=model_name,
         messages=[{"role": m["role"], "content": m["content"]} for m in st.session_state.messages],
         stream=True,
+        temperature=0.7,  # Có thể điều chỉnh các tham số phù hợp với DeepSeek R1
     )
 
     # Ghi lại phản hồi của trợ lý vào biến
     for chunk in stream:
         if chunk.choices:
-            response += chunk.choices[0].delta.content or ""
-
+            delta_content = chunk.choices[0].delta.content
+            if delta_content:
+                response += delta_content
+    
     # Hiển thị phản hồi của trợ lý
     st.markdown(f'<div class="assistant">{response}</div>', unsafe_allow_html=True)
 
